@@ -53,6 +53,9 @@ pip install -r requirements.txt
 Copy code
 streamlit run app.py
 ```
+
+---
+
 ### 🧠 Machine Learning Workflow
 - Data Preprocessing
 - Standardization using StandardScaler
@@ -64,21 +67,27 @@ streamlit run app.py
 - Evaluation Metrics
 - Accuracy, Precision, Recall, F1-Score, ROC-AUC
 
+---
+
 ### 📈 Model Performance
-Metric	Score
-Accuracy	94.7%
-Precision	94.8%
-Recall	92.4%
-F1 Score	93.6%
-ROC-AUC	0.998
+- Metric	Score
+- Accuracy	94.7%
+- Precision	94.8%
+- Recall	92.4%
+- F1 Score	93.6%
+- ROC-AUC	0.998
 
 ### ⚡ Note: Recall is prioritized to reduce false negatives (missed frauds).
 
+---
+
 ### 💻 Tech Stack
-**Language: Python**
-**Libraries: Pandas, NumPy, Scikit-learn, Imbalanced-learn, Streamlit**
-**ML Algorithm: Random Forest Classifier**
-**Data Handling: SMOTE for imbalance correction**
+- **Language: Python**
+- **Libraries: Pandas, NumPy, Scikit-learn, Imbalanced-learn, Streamlit**
+- **ML Algorithm: Random Forest Classifier**
+- **Data Handling: SMOTE for imbalance correction**
+
+---
 
 ### 📌 Future Enhancements
 ✅ Deploy on Heroku or Render for public access
@@ -87,6 +96,7 @@ ROC-AUC	0.998
 
 ✅ Add explainable AI (SHAP) for model transparency
 
+---
 
 ### 👨‍💻 Author
 Khushi
