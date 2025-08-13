@@ -90,7 +90,8 @@ streamlit run app.py
 ---
 
 ## Screenshots
-![Homepage](./Screenshot 2024-11-12 123958.png)
+![Homepage](./Screenshot%202024-11-12%20123958.png)
+
 
 
 ### 📌 Future Enhancements
