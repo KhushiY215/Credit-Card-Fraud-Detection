@@ -91,7 +91,14 @@ streamlit run app.py
 
 ## Screenshots
 ![Homepage](./Screenshot%202024-11-12%20123958.png)
+![About](./About.png)
+![Analysis](./Analysis.png)
+![Pred](./Pred.png)
+![Pred2](./Pred2.png)
+![Prediction1](./Prediction1.png)
+![Prediction2](./Prediction2.png)
 
+---
 
 
 ### 📌 Future Enhancements
