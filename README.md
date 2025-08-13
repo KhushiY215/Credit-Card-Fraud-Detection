@@ -89,6 +89,10 @@ streamlit run app.py
 
 ---
 
+## Screenshots
+![Homepage](./Screenshot 2024-11-12 123958.png)
+
+
 ### 📌 Future Enhancements
 ✅ Deploy on Heroku or Render for public access
 
